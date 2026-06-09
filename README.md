@@ -81,7 +81,7 @@ ScientificCalculator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/scientific-calculator-java.git
+git clone https://github.com/abhisekyadav9116300/Scientific-calculator-by-Abhisek
 ```
 
 ### 2. Navigate to the Project Directory
